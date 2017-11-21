@@ -1,8 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+//using System.Collections.Generic;
+//using System.Linq;
+//using System.Text;
+//using System.Threading.Tasks;
 
 namespace Hello32
 {
@@ -10,8 +10,9 @@ namespace Hello32
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello 32");
-            Console.Write("hello 33asdf");
+            Console.WriteLine("Hello 33");
+            //Console.Write("hello 3");
+
         }
     }
 }
